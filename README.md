@@ -49,3 +49,4 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 
 1. [Terence Huynh](https://twitter.com/terencehuynh)
 2. [Patrick Murray](https://patmurray.co)
+3. [Zachary Simone](https://zachsim.one/)
