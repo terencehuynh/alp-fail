@@ -52,4 +52,5 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 - [Hugo Müller-Downing](https://hugo.md/)
 - [Alex Best](https://thenationofalex.com)
 - [Robert Koch](https://me.kochie.io)
+- [Anthony Foster](https://af.id.au)
 - [Renlord Yang](https://renlord.com)
