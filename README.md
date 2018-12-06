@@ -1,6 +1,6 @@
 <!--head-->
 
-# ALP Fail: An Open Letter to Bill Shorten and the Australian Labor Party
+# ALP Fail: An Open Letter to Bill Shorten and the Australian Labor Party from the Tech Community
 
 [If you want to add your name or recommend alterations to this text, please submit a PR!](https://github.com/terencehuynh/alp-fail/edit/master/README.md).
 
@@ -47,3 +47,4 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 ## Signed
 
 1. [Terence Huynh](https://twitter.com/terencehuynh)
+2. [Patrick Murray](https://patmurray.co)

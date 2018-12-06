@@ -39,6 +39,9 @@ const Dear = styled(Paragraph)`
 export const Header = () => (
   <Wrapper>
     <Headline>You bunch of cucking funts!</Headline>
-    <Dear>An open letter to Bill Shorten and the Australian Labor Party</Dear>
+    <Dear>
+      An Open Letter to Bill Shorten and the Australian Labor Party from the
+      Tech Community
+    </Dear>
   </Wrapper>
 )
