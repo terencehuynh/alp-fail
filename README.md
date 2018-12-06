@@ -47,7 +47,7 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 
 ## Signed
 
-1. [Terence Huynh](https://twitter.com/terencehuynh)
-2. [Patrick Murray](https://patmurray.co)
-3. [Zachary Simone](https://zachsim.one/)
-4. [Hugo Müller-Downing](https://hugo.md/)
+- [Terence Huynh](https://twitter.com/terencehuynh)
+- [Patrick Murray](https://patmurray.co)
+- [Zachary Simone](https://zachsim.one/)
+- [Hugo Müller-Downing](https://hugo.md/)
