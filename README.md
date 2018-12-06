@@ -52,3 +52,4 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 - [Zachary Simone](https://zachsim.one/)
 - [Hugo Müller-Downing](https://hugo.md/)
 - [Alex Best](https://thenationofalex.com)
+- [Anthony Foster](https://af.id.au)
