@@ -40,8 +40,7 @@ export const Header = () => (
   <Wrapper>
     <Headline>You bunch of cucking funts!</Headline>
     <Dear>
-      An Open Letter to Bill Shorten and the Australian Labor Party from the
-      Tech Community
+      An Open Letter to Bill Shorten and Labor from the Tech Community
     </Dear>
   </Wrapper>
 )
