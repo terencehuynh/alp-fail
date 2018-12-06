@@ -47,9 +47,11 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 
 ## Signed
 
+
 - [Terence Huynh](https://twitter.com/terencehuynh)
 - [Patrick Murray](https://patmurray.co)
 - [Zachary Simone](https://zachsim.one/)
 - [Hugo Müller-Downing](https://hugo.md/)
 - [Alex Best](https://thenationofalex.com)
+- [Robert Koch](https://me.kochie.io)
 - [Anthony Foster](https://af.id.au)
