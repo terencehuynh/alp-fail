@@ -1,16 +1,22 @@
 import React from 'react'
 import { ThemeProvider } from 'fannypack'
+import Helmet from 'react-helmet'
 
 import { Header } from '../components/header'
 import { Footer } from '../components/footer'
 import { Letter } from '../components/letter'
 
 const IndexPage = () => (
-  <ThemeProvider>
-    <Header />
-    <Letter />
-    <Footer />
-  </ThemeProvider>
+  <React.Fragment>
+    <Helmet>
+      <title>alp.fail - An Open Letter to Bill Shorten</title>
+    </Helmet>
+    <ThemeProvider>
+      <Header />
+      <Letter />
+      <Footer />
+    </ThemeProvider>
+  </React.Fragment>
 )
 
 export default IndexPage
