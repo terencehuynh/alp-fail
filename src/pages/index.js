@@ -10,6 +10,14 @@ const IndexPage = () => (
   <React.Fragment>
     <Helmet>
       <title>An Open Letter to Bill Shorten from the Tech Community</title>
+      <meta
+        property="og:title"
+        content="ALP FAIL: An Open Letter to Bill Shorten from the Tech Community"
+      />
+      <meta
+        property="og:description"
+        content="We are angry about #aabill - a bad law that will destroy the IT industry"
+      />
     </Helmet>
     <ThemeProvider>
       <Header />
