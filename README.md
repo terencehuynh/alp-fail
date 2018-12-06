@@ -51,3 +51,4 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 2. [Patrick Murray](https://patmurray.co)
 3. [Zachary Simone](https://zachsim.one/)
 4. [Hugo Müller-Downing](https://hugo.md/)
+5. [Renlord Yang](https://renlord.com)
