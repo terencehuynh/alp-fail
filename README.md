@@ -2,7 +2,7 @@
 
 # ALP Fail: An Open Letter to Bill Shorten and the Australian Labor Party
 
-If you want to add your name or recommend alterations to this text, please submit a PR!
+[If you want to add your name or recommend alterations to this text, please submit a PR!](https://github.com/terencehuynh/alp-fail/edit/master/README.md).
 
 <!--
   DEVELOPER NOTE: Anything rendered between the head comment flags will not get
@@ -18,8 +18,7 @@ Dear Bill Shorten and the Australian Labor Party,
 
 Words cannot describe how angry we feel after your gutless and spineless decision to blindly support the Government's so-called "Assistance and Access Bill" (#aabill). You even sacrificed the children locked up in offshore detention centres just so you couldn't be labelled as supporters of terrorists and pedophiles.
 
-All of you had doubts about the law. [You said that it was rushed. You said that it was flawed.](https://www.buzzfeed.com/joshtaylor/labor-this-encryption-law-is-flawed-also-labor-we-voted-for)
-And yet, you still let it through the House of Representatives.
+All of you had doubts about the law. [You said that it was rushed. You said that it was flawed](https://www.buzzfeed.com/joshtaylor/labor-this-encryption-law-is-flawed-also-labor-we-voted-for). And yet, you still let it through the House of Representatives.
 
 You said you will put in amendments in the Senate. You said that you will ensure there will be reviews into this. You said that you will tie the passage of this bill with getting the children off Nauru and Manus Island.
 
