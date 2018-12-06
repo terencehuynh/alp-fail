@@ -1,8 +1,20 @@
 import React from 'react'
-import { Container, Box, Heading, Button, Paragraph, styled } from 'fannypack'
+import {
+  Container,
+  Box,
+  Heading,
+  Button,
+  Paragraph,
+  Set,
+  Icon,
+  styled,
+} from 'fannypack'
 import { theme } from 'styled-tools'
 
 import { LetterText } from '../utils/letter'
+
+const Tweet =
+  'I am angry about your decision to pass #aabill and in all good conscience, I can no longer support Labor. @BillShorten @AustralianLabor https://alp.fail'
 
 const Wrapper = styled(Container)`
   padding: 42px 10px 0;
@@ -103,6 +115,12 @@ const DisclaimerParagraph = styled(Paragraph)`
   text-align: center;
 `
 
+const ButtonSet = styled(Set)`
+  @media (max-width: ${theme('fannypack.layout.mobileBreakpoint')}px) {
+    display: block;
+  }
+`
+
 export const Letter = () => (
   <React.Fragment>
     <LetterWrapper breakpoint="desktop">{LetterText}</LetterWrapper>
@@ -111,9 +129,19 @@ export const Letter = () => (
         <LetterCtaHeading as="h3">
           Want to add your name to this letter?
         </LetterCtaHeading>
-        <Button use="a" href="https://github.com/terencehuynh/alp-fail">
-          Create a PR on GitHub
-        </Button>
+        <ButtonSet>
+          <Button use="a" href="https://github.com/terencehuynh/alp-fail">
+            <Icon icon="git-pull" marginRight="xxsmall" /> Create a PR on GitHub
+          </Button>
+          <Button
+            use="a"
+            href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(
+              Tweet
+            )}`}
+          >
+            Send a Tweet
+          </Button>
+        </ButtonSet>
       </LetterCta>
       <Disclaimer>
         <DisclaimerHeading as="h3">Disclaimer</DisclaimerHeading>
