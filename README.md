@@ -46,9 +46,10 @@ We are against the bill because it is a destructive and shortsighted law. In add
 In all good conscience, we can no longer support Labor. And we will be advocating for people to choose anyone but Labor.
 
 ## Signed
-
-1. [Terence Huynh](https://twitter.com/terencehuynh)
-2. [Patrick Murray](https://patmurray.co)
-3. [Zachary Simone](https://zachsim.one/)
-4. [Hugo Müller-Downing](https://hugo.md/)
-5. [Renlord Yang](https://renlord.com)
+- [Terence Huynh](https://twitter.com/terencehuynh)
+- [Patrick Murray](https://patmurray.co)
+- [Zachary Simone](https://zachsim.one/)
+- [Hugo Müller-Downing](https://hugo.md/)
+- [Alex Best](https://thenationofalex.com)
+- [Robert Koch](https://me.kochie.io)
+- [Renlord Yang](https://renlord.com)

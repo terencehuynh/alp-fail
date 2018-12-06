@@ -67,17 +67,19 @@ const LetterWrapper = styled(Wrapper)`
     content: ' ';
     z-index: -10;
   }
-  ol {
+  ol,
+  ul {
     list-style: none;
     margin: 0;
     padding: 0;
-    column-count: 3;
+    column-count: 4;
     @media (max-width: ${theme('fannypack.layout.mobileBreakpoint')}px) {
       column-count: 2;
     }
   }
   li {
     text-align: left;
+    margin-bottom: 5px;
   }
 `
 
