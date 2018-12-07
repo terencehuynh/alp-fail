@@ -66,3 +66,4 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 - [Phil Nickl](https://philnickl.com)
 - [Terry Sweetser](https://about.me/terry.sweetser)
 - [Michael Ensly](http://mens.ly)
+- [Dylan Aird](https://github.com/gl3nda85)
