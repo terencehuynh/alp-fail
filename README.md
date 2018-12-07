@@ -58,4 +58,4 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 - [Hacik Ozdil](https://hacik.io)
 - [Harry Tucker](https://dropsmedia.io)
 - [James Dale](https://jamesdale.com.au)
-- [Lucas Winterbottom] (https://lucaswinterbotttom.com)
+- [Lucas Winterbottom](https://lucaswinterbotttom.com)
