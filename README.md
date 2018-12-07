@@ -54,4 +54,6 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 - [Robert Koch](https://me.kochie.io)
 - [Anthony Foster](https://af.id.au)
 - [Renlord Yang](https://renlord.com)
+- [Mick Semb Wever](https://about.me/wever)
+- [Hacik Ozdil](https://hacik.io)
 - [Harry Tucker](https://dropsmedia.io)
