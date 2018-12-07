@@ -68,3 +68,4 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 - [Michael Ensly](http://mens.ly)
 - [Dylan Aird](https://github.com/gl3nda85)
 - [Patrick Mifsud](https://patrickmfsd.github.io)
+- [Will Hackett](https://www.willhackett.com)
