@@ -70,3 +70,5 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 - [Patrick Mifsud](https://patrickmfsd.github.io)
 - [Will Hackett](https://www.willhackett.com)
 - [James Hanford](http://projkt.io/)
+- [James Austin](https://jamesaust.in/)
+
