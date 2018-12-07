@@ -64,3 +64,4 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 - [Cody Miller-Kelly](https://c.zu.io)
 - [David Hows](https://github.com/daveh86)
 - [Phil Nickl](https://philnickl.com)
+- [Terry Sweetser](https://about.me/terry.sweetser)
