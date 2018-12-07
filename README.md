@@ -63,3 +63,4 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 - [Darren Cocco](https://blog.segfault.id.au)
 - [Cody Miller-Kelly](https://c.zu.io)
 - [David Hows](https://github.com/daveh86)
+- [Dylan Aird](https://github.com/gl3nda85)
