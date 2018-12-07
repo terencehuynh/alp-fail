@@ -60,3 +60,4 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 - [James Dale](https://jamesdale.com.au)
 - [Lucas Winterbottom](https://lucaswinterbotttom.com)
 - [Eric Jiang](https://lorderikir.me) 
+- [Darren Cocco](https://blog.segfault.id.au)
