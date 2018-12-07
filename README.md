@@ -3,7 +3,7 @@
 # ALP Fail: An Open Letter to Bill Shorten and Labor from the Tech Community
 
 [If you want to add your name or recommend alterations to this text, please submit a PR!](https://github.com/terencehuynh/alp-fail/edit/master/README.md).
-Alternatively, you can send [a tweet](https://twitter.com/intent/tweet?text=I%20am%20angry%20about%20your%20decision%20to%20pass%20%23aabill%20and%20in%20all%20good%20conscience%2C%20I%20can%20no%20longer%20support%20Labor.%20%40BillShorten%20%40AustralianLabor%20https%3A%2F%2Falp.fail) to Bill Shorten and the Australian Labor team.
+Alternatively, you can send [a tweet](https://twitter.com/intent/tweet?text=I%20am%20angry%20about%20your%20decision%20to%20pass%20%23aabill%20and%20in%20all%20good%20conscience%2C%20I%20can%20no%20longer%20support%20Labor.%20%40BillShortenMP%20%40AustralianLabor%20https%3A%2F%2Falp.fail) to Bill Shorten and the Australian Labor team.
 
 <!--
   DEVELOPER NOTE: Anything rendered between the head comment flags will not get
