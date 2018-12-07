@@ -6,6 +6,8 @@ import { Header } from '../components/header'
 import { Footer } from '../components/footer'
 import { Letter } from '../components/letter'
 
+import ogimage from '../components/ogimage.jpg'
+
 const IndexPage = () => (
   <React.Fragment>
     <Helmet>
