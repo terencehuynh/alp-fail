@@ -57,3 +57,4 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 - [Mick Semb Wever](https://about.me/wever)
 - [Hacik Ozdil](https://hacik.io)
 - [Harry Tucker](https://dropsmedia.io)
+- [James Dale](https://jamesdale.com.au)
