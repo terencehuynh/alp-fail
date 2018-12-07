@@ -98,3 +98,4 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Alex Gilleran](https://github.com/alexgilleran)
 - [Jason Brown](https://github.com/stopthatastronaut)
 - [Alec Clews](https://github.com/alecthegeek)
+- [Tim Serong](https://ourobengr.com)
