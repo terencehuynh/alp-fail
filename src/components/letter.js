@@ -15,6 +15,9 @@ import { LetterText } from '../utils/letter'
 
 const Tweet =
   'I am angry about your decision to pass #aabill and in all good conscience, I can no longer support Labor. @BillShortenMP @AustralianLabor https://alp.fail'
+  
+const Url =
+  'https://alp.fail'
 
 const Wrapper = styled(Container)`
   padding: 42px 10px 0;
@@ -132,9 +135,6 @@ export const Letter = () => (
           Want to add your name to this letter?
         </LetterCtaHeading>
         <ButtonSet>
-          <Button use="a" href="https://github.com/terencehuynh/alp-fail">
-            <Icon icon="git-pull" marginRight="xxsmall" /> Create a PR on GitHub
-          </Button>
           <Button
             use="a"
             href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(
@@ -142,6 +142,17 @@ export const Letter = () => (
             )}`}
           >
             Send a Tweet
+          </Button>
+          <Button
+            use="a"
+            href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
+              Url
+            )}`}
+          >
+            Post on Facebook
+          </Button>
+          <Button use="a" href="https://github.com/terencehuynh/alp-fail">
+            <Icon icon="git-pull" marginRight="xxsmall" /> Create a PR on GitHub
           </Button>
         </ButtonSet>
       </LetterCta>
