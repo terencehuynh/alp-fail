@@ -61,4 +61,5 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 - [Lucas Winterbottom](https://lucaswinterbotttom.com)
 - [Eric Jiang](https://lorderikir.me) 
 - [Darren Cocco](https://blog.segfault.id.au)
-- [Cody Miller-Kelly] (https://c.zu.io)
+- [Cody Miller-Kelly](https://c.zu.io)
+- [David Hows](https://github.com/daveh86)
