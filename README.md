@@ -59,3 +59,4 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 - [Harry Tucker](https://dropsmedia.io)
 - [James Dale](https://jamesdale.com.au)
 - [Lucas Winterbottom](https://lucaswinterbotttom.com)
+- [Cody Miller-Kelly] (https://c.zu.io)
