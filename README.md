@@ -72,4 +72,4 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 - [James Hanford](http://projkt.io/)
 - [James Austin](http://jamesaust.in/)
 - [Lachlan Kingsford](http://www.nerdygentleman.com)
-
+- [Ric Hayman] (https://achurchassociates.com)
