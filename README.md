@@ -100,4 +100,5 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Alec Clews](https://github.com/alecthegeek)
 - [Tim Serong](https://ourobengr.com)
 - [Peter Kumaschow](https://twitter.com/pkumaschow)
+- [James Clark](https://github.com/james-clark-domain)
 - [Michael Dyrynda](https://twitter.com/michaeldyrynda)
