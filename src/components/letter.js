@@ -155,6 +155,9 @@ export const Letter = () => (
             <Icon icon="git-pull" marginRight="xxsmall" /> Create a PR on GitHub
           </Button>
         </ButtonSet>
+        <LetterCtaHeading as="h4">
+          Unsure how to create a PR? Sign up for Github, <a href="https://help.github.com/articles/editing-files-in-another-user-s-repository/">then follow these instructions</a>.
+        </LetterCtaHeading>
       </LetterCta>
       <Disclaimer>
         <DisclaimerHeading as="h3">Disclaimer</DisclaimerHeading>
