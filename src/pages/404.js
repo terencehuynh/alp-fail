@@ -1,20 +1,19 @@
 import React from 'react'
-import { ThemeProvider, Container } from 'fannypack'
+import { Container } from 'fannypack'
 import Helmet from 'react-helmet'
 
+import { Page } from '../components/page'
+
 const NotFoundPage = () => (
-  <React.Fragment>
+  <Page>
     <Helmet>
       <title>404</title>
     </Helmet>
-
-    <ThemeProvider>
-      <Container>
-        <h1>NOT FOUND</h1>
-        <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
-      </Container>
-    </ThemeProvider>
-  </React.Fragment>
+    <Container>
+      <h1>NOT FOUND</h1>
+      <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+    </Container>
+  </Page>
 )
 
 export default NotFoundPage

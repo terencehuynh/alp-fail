@@ -2,7 +2,7 @@ import React from 'react'
 import { Flex, Heading, Paragraph, styled } from 'fannypack'
 import { theme } from 'styled-tools'
 
-const LABOR_RED = '#e53440'
+import { LABOR_RED } from '../constants'
 
 const Wrapper = styled(Flex)`
   background-color: ${LABOR_RED};
