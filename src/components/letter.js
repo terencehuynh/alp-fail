@@ -21,6 +21,10 @@ const LetterWrapper = styled(Wrapper)`
     font-weight: 600;
     color: ${LABOR_RED};
   }
+  p:last-child {
+    font-size: 1.5rem;
+    text-align: center;
+  }
   h2 {
     font-size: 1.5rem;
     margin-top: 48px;
@@ -51,7 +55,7 @@ const LetterWrapper = styled(Wrapper)`
   }
   ul {
     list-style: none;
-    margin: 0;
+    margin: 0 0 24px;
     padding: 0;
     column-count: 4;
     @media (max-width: ${theme('fannypack.layout.mobileBreakpoint')}px) {
