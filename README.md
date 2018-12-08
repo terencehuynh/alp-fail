@@ -91,3 +91,4 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 - [Delan Azabani](https://www.azabani.com)
 - [Rebecca Le](http://www.sevenseacat.net)
 - [Ethan Gillespie](https://twitter.com/FuzzyToaster)
+- [Peter Argent](https://www.peterargent.com)
