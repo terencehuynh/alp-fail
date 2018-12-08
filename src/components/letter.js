@@ -15,9 +15,8 @@ import { LetterText } from '../utils/letter'
 
 const Tweet =
   'I am angry about your decision to pass #aabill and in all good conscience, I can never support Labor. @BillShortenMP @AustralianLabor https://alp.fail'
-  
-const Url =
-  'https://alp.fail'
+
+const Url = 'https://alp.fail'
 
 const Wrapper = styled(Container)`
   padding: 42px 10px 0;
@@ -92,6 +91,10 @@ const LetterCta = styled(Box)`
   text-align: center;
   margin-bottom: 12px;
   margin-top: 24px;
+
+  p {
+    margin: 0;
+  }
 `
 
 const Disclaimer = styled(Box)`
@@ -105,7 +108,6 @@ const Disclaimer = styled(Box)`
 const LetterCtaHeading = styled(Heading)`
   margin: 0 0 12px;
   text-align: center;
-  font-weight: normal;
 `
 
 const DisclaimerHeading = styled(Heading)`
@@ -121,6 +123,7 @@ const DisclaimerParagraph = styled(Paragraph)`
 `
 
 const ButtonSet = styled(Set)`
+  margin-bottom: 24px;
   @media (max-width: ${theme('fannypack.layout.mobileBreakpoint')}px) {
     display: block;
   }
@@ -155,9 +158,13 @@ export const Letter = () => (
             <Icon icon="git-pull" marginRight="xxsmall" /> Create a PR on GitHub
           </Button>
         </ButtonSet>
-        <LetterCtaHeading as="h4">
-          Unsure how to create a PR? Sign up for Github, <a href="https://help.github.com/articles/editing-files-in-another-user-s-repository/">then follow these instructions</a>.
-        </LetterCtaHeading>
+        <p as="h4">
+          Unsure how to create a PR? Sign up for Github,{' '}
+          <a href="https://help.github.com/articles/editing-files-in-another-user-s-repository/">
+            then follow these instructions
+          </a>
+          .
+        </p>
       </LetterCta>
       <Disclaimer>
         <DisclaimerHeading as="h3">Disclaimer</DisclaimerHeading>
