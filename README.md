@@ -107,9 +107,6 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Jesse Cameron](https://github.com/Jesse-Cameron/)
 - [Aaron Mason](https://github.com/thirdwheel)
 - [Hammy Goonan)(https://github.com/hammygoonan)
-
-<!-- This bit is the Twitter users -->
-
 - [Sam Bailey](https://twitter.com/that_sam_guy/status/1071348043612545024)
 - [Colin Panisset](https://twitter.com/nonspecialist/status/1071347121352142848)
 - [Adam Mills](https://twitter.com/MillsAdam/status/1071333240319893504)
@@ -195,5 +192,6 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Anna Tito](https://twitter.com/MythicalC/status/1070865646949298177)
 - [Luke Davis](https://twitter.com/LukeLukus22/status/1070863976517357568)
 - [Leigh Stillard](https://twitter.com/LeighStillard/status/1070836261886210048)
+- [Dr Tom Tilly](https://twitter.com/ThomasTilley14/status/1071363902863138816)
 
 ... [and many more.](https://twitter.com/search?f=tweets&q=%23aabill%20alp.fail)
