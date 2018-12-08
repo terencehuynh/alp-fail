@@ -105,4 +105,4 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Stephen Rees-Carter](https://stephenreescarter.net)
 - [Jesse Cameron](https://github.com/Jesse-Cameron/)
 - [Aaron Mason](https://github.com/thirdwheel)
-- [Hammy Goonan)(https://github.com/hammygoonan)
+- [Hammy Goonan](https://github.com/hammygoonan)
