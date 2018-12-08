@@ -77,3 +77,4 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 - [Patrick Nappa](https://pat.sh/)
 - [Tim Oliver](http://timoliver.com.au)
 - [Richard Jones](https://mechanicalcat.net/richard)
+- [Ryan Bigg](https://ryanbigg.com)
