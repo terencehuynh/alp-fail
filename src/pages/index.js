@@ -1,7 +1,7 @@
 import React from 'react'
-import { ThemeProvider } from 'fannypack'
 import Helmet from 'react-helmet'
 
+import { Page } from '../components/page'
 import { Header } from '../components/header'
 import { Footer } from '../components/footer'
 import { Letter } from '../components/letter'
@@ -38,11 +38,11 @@ const IndexPage = () => (
         content="We are angry about #aabill - a bad law that will destroy the IT industry"
       />
     </Helmet>
-    <ThemeProvider>
+    <Page>
       <Header />
       <Letter />
       <Footer />
-    </ThemeProvider>
+    </Page>
   </React.Fragment>
 )
 

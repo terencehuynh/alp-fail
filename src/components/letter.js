@@ -1,22 +1,12 @@
 import React from 'react'
-import {
-  Container,
-  Box,
-  Heading,
-  Button,
-  Paragraph,
-  Set,
-  Icon,
-  styled,
-} from 'fannypack'
+import { Container, styled } from 'fannypack'
 import { theme } from 'styled-tools'
 
 import { LetterText } from '../utils/letter'
+import { LABOR_RED } from '../constants'
 
-const Tweet =
-  'I am angry about your decision to pass #aabill and in all good conscience, I can never support Labor. @BillShortenMP @AustralianLabor https://alp.fail'
-
-const Url = 'https://alp.fail'
+import { Disclaimer } from './disclaimer'
+import { LetterCta } from './letter-cta'
 
 const Wrapper = styled(Container)`
   padding: 42px 10px 0;
@@ -26,20 +16,10 @@ const Wrapper = styled(Container)`
 `
 
 const LetterWrapper = styled(Wrapper)`
-  p {
-    line-height: 1.5;
-    margin: 0 0 24px;
-  }
   p:first-child {
     font-size: 1.75rem;
     font-weight: 600;
-    color: #e53440;
-  }
-  a {
-    color: rgb(88, 108, 207);
-  }
-  a:hover {
-    color: rgb(136, 150, 221);
+    color: ${LABOR_RED};
   }
   h2 {
     font-size: 1.5rem;
@@ -69,7 +49,6 @@ const LetterWrapper = styled(Wrapper)`
     content: ' ';
     z-index: -10;
   }
-  ol,
   ul {
     list-style: none;
     margin: 0;
@@ -85,95 +64,12 @@ const LetterWrapper = styled(Wrapper)`
   }
 `
 
-const LetterCta = styled(Box)`
-  border: 1px solid #e0e0e0;
-  padding: 30px;
-  text-align: center;
-  margin-bottom: 12px;
-  margin-top: 24px;
-
-  p {
-    margin: 0;
-  }
-`
-
-const Disclaimer = styled(Box)`
-  background: #f0f0f0;
-  padding: 15px 30px;
-  text-align: center;
-  font-size: 0.875rem;
-  margin-bottom: 48px;
-`
-
-const LetterCtaHeading = styled(Heading)`
-  margin: 0 0 12px;
-  text-align: center;
-`
-
-const DisclaimerHeading = styled(Heading)`
-  margin: 0 0 4px;
-  font-size: 0.875rem;
-  text-align: center;
-`
-
-const DisclaimerParagraph = styled(Paragraph)`
-  margin: 0;
-  font-size: 0.875rem;
-  text-align: center;
-`
-
-const ButtonSet = styled(Set)`
-  margin-bottom: 24px;
-  @media (max-width: ${theme('fannypack.layout.mobileBreakpoint')}px) {
-    display: block;
-  }
-`
-
 export const Letter = () => (
   <React.Fragment>
     <LetterWrapper breakpoint="desktop">{LetterText}</LetterWrapper>
     <Wrapper breakpoint="desktop">
-      <LetterCta>
-        <LetterCtaHeading as="h3">
-          Want to add your name to this letter?
-        </LetterCtaHeading>
-        <ButtonSet>
-          <Button
-            use="a"
-            href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(
-              Tweet
-            )}`}
-          >
-            Send a Tweet
-          </Button>
-          <Button
-            use="a"
-            href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
-              Url
-            )}`}
-          >
-            Post on Facebook
-          </Button>
-          <Button use="a" href="https://github.com/terencehuynh/alp-fail">
-            <Icon icon="git-pull" marginRight="xxsmall" /> Create a PR on GitHub
-          </Button>
-        </ButtonSet>
-        <p as="h4">
-          Unsure how to create a PR? Sign up for Github,{' '}
-          <a href="https://help.github.com/articles/editing-files-in-another-user-s-repository/">
-            then follow these instructions
-          </a>
-          .
-        </p>
-      </LetterCta>
-      <Disclaimer>
-        <DisclaimerHeading as="h3">Disclaimer</DisclaimerHeading>
-        <DisclaimerParagraph>
-          Although various projects, companies and organizations may be listed
-          next to signees, these signatures do not necessarily reflect the views
-          of anyone except the signees.
-        </DisclaimerParagraph>
-      </Disclaimer>
+      <LetterCta />
+      <Disclaimer />
     </Wrapper>
   </React.Fragment>
 )
