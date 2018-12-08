@@ -193,5 +193,6 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Luke Davis](https://twitter.com/LukeLukus22/status/1070863976517357568)
 - [Leigh Stillard](https://twitter.com/LeighStillard/status/1070836261886210048)
 - [Dr Tom Tilly](https://twitter.com/ThomasTilley14/status/1071363902863138816)
+- [Michael Barnett](https://twitter.com/shuttah627)
 
 ... [and many more.](https://twitter.com/search?f=tweets&q=%23aabill%20alp.fail)
