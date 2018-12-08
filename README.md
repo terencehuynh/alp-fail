@@ -31,13 +31,13 @@ You have shown us what you really are - a bunch of spineless weasels.
 
 Every tech expert agrees that the so-called "Assistance and Access Bill" will do significant damage to Australia's IT industry.
 
-**It weakens security for everyone.** We do not want to deliberately build backdoors or make our products insecure. This means everyone else's data will be vulnerable. People have an expectation that we protect their personal data to the best of our ability. We cannot continue to guarantee this unless we go against the technical capability notices issued by law enforcement - which will become criminal offence.
+**It weakens security for everyone.** We do not want to deliberately build backdoors or make our products insecure. This means everyone else's data will be vulnerable. People have an expectation that we protect their personal data to the best of our ability. We cannot continue to guarantee this unless we go against the technical capability notices issued by law enforcement - which will become a criminal offence.
 
 **You have made it harder for international companies to hire Australian talent**, or have offices in Australia filled with Australian talent. Companies such as Amazon, Apple, Atlassian, Microsoft, Slack, Zendesk and others now have to view their Australian staff and teams as ["potentially compromised"](https://twitter.com/pjf/status/1070606119993696256). [This is because law enforcement can force a person to build a backdoor and they cannot tell their bosses](https://twitter.com/alfiedotwtf/status/1070047303275175936). They might sack them and leave Australia because of the law you just passed.
 
-You have also just **made it almost impossible to export Australian tech services** because no-one wants a potentially vulnerable system that might contain a backdoor. Who in their right mind will buy a product like that? [Look at stock price of one of Australia's largest tech companies, Atlassian. It's down because of what you have voted for.](https://twitter.com/parsect/status/1070454621812928512) In addition, because it violates the EU's General Data Protection Regulations (GDPR), you have just locked out Australian companies and startups out of a huge market.
+You have also just **made it almost impossible to export Australian tech services** because no-one wants a potentially vulnerable system that might contain a backdoor. Who in their right mind will buy a product like that? [Look at stock price of one of Australia's largest tech companies, Atlassian. It's down because of what you have voted for.](https://twitter.com/parsect/status/1070454621812928512) In addition, because it violates the EU's General Data Protection Regulations (GDPR), you have just locked Australian companies and startups out of a huge market.
 
-And yet, you choose to ignore us.
+And yet, you chose to ignore us.
 
 Being against the so-called "Assistance and Access Bill" does not mean you are in support of terrorism or pedophilia. We abhor terrorism and pedophilia.
 
@@ -71,6 +71,27 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 - [Will Hackett](https://www.willhackett.com)
 - [James Hanford](http://projkt.io/)
 - [James Austin](http://jamesaust.in/)
+- [Chris Duell](http://twitter.com/duellsy)
 - [Lachlan Kingsford](http://www.nerdygentleman.com)
+- [Daniel Collins](https://dcollins.info/)
+- [Jackson Bates](https://twitter.com/jacksonbates)
+- [Patrick Nappa](https://pat.sh/)
+- [Tim Oliver](http://timoliver.com.au)
+- [Richard Jones](https://mechanicalcat.net/richard)
+- [Ryan Bigg](https://ryanbigg.com)
+- [Alfie John](http://www.alfie.wtf)
+- [Mike Kreuzer](https://mikekreuzer.com)
+- [Andy Kelk](https://www.andykelk.net/)
+- [David Allen](https://github.com/StaphSynth)
+- [Cail Young](https:/twitter.com/cailyoung)
+- [Shaun Branden](https://twitter.com/parsect)
+- [Ric Hayman](https://achurchassociates.com)
+- [Matthew Schinckel](http://schinckel.net)
+- [Aria Edmonds](https://twitter.com/ar1aau)
+- [Delan Azabani](https://www.azabani.com)
+- [Rebecca Le](http://www.sevenseacat.net)
+- [Ethan Gillespie](https://twitter.com/FuzzyToaster)
+- [Peter Argent](https://www.peterargent.com)
+- [Aaron Horler](https://github.com/aghorler)
+- [Matthew Cengia](https://blog.mattcen.com)
 - [Jess Telford](https://jes.st/about)
-
