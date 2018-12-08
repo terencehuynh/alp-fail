@@ -97,3 +97,4 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 - [Jess Telford](https://jes.st/about)
 - [Alex Gilleran](https://github.com/alexgilleran)
 - [Jason Brown](https://github.com/stopthatastronaut)
+- [Scott Christopher](https://twitter.com/_schristo)
