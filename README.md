@@ -106,7 +106,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Stephen Rees-Carter](https://stephenreescarter.net)
 - [Jesse Cameron](https://github.com/Jesse-Cameron/)
 - [Aaron Mason](https://github.com/thirdwheel)
-- [Hammy Goonan)(https://github.com/hammygoonan)
+- [Hammy Goonan](https://github.com/hammygoonan)
 - [Sam Bailey](https://twitter.com/that_sam_guy/status/1071348043612545024)
 - [Colin Panisset](https://twitter.com/nonspecialist/status/1071347121352142848)
 - [Adam Mills](https://twitter.com/MillsAdam/status/1071333240319893504)
