@@ -14,8 +14,8 @@ const theme = {
   Paragraph: {
     base: css`
       line-height: 1.5;
-      &:last-child {
-        margin-bottom: 0;
+      &:not(:last-child) {
+        margin-bottom: 24px;
       }
     `,
   },

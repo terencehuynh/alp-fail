@@ -1,5 +1,14 @@
 import React from 'react'
-import { Box, Heading, Button, Set, Icon, styled } from 'fannypack'
+import {
+  Box,
+  Heading,
+  Button,
+  Set,
+  Icon,
+  Link,
+  Paragraph,
+  styled,
+} from 'fannypack'
 import { theme } from 'styled-tools'
 
 const Tweet =
@@ -31,7 +40,7 @@ const ButtonSet = styled(Set)`
   }
 `
 
-export const Disclaimer = () => (
+export const LetterCta = () => (
   <Wrapper>
     <LetterCtaHeading as="h3">
       Want to add your name to this letter?
@@ -57,12 +66,12 @@ export const Disclaimer = () => (
         <Icon icon="git-pull" marginRight="xxsmall" /> Create a PR on GitHub
       </Button>
     </ButtonSet>
-    <p as="h4">
+    <Paragraph>
       Unsure how to create a PR? Sign up for Github,{' '}
-      <a href="https://help.github.com/articles/editing-files-in-another-user-s-repository/">
+      <Link href="https://help.github.com/articles/editing-files-in-another-user-s-repository/">
         then follow these instructions
-      </a>
+      </Link>
       .
-    </p>
+    </Paragraph>
   </Wrapper>
 )

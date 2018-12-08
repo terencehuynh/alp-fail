@@ -9,7 +9,7 @@ import { Letter } from '../components/letter'
 import ogimage from '../components/ogimage.jpg'
 
 const IndexPage = () => (
-  <React.Fragment>
+  <Page>
     <Helmet>
       <title>An Open Letter to Bill Shorten from the Tech Community</title>
       <meta name="twitter:card" content="summary_large_image" />
@@ -38,12 +38,10 @@ const IndexPage = () => (
         content="We are angry about #aabill - a bad law that will destroy the IT industry"
       />
     </Helmet>
-    <Page>
-      <Header />
-      <Letter />
-      <Footer />
-    </Page>
-  </React.Fragment>
+    <Header />
+    <Letter />
+    <Footer />
+  </Page>
 )
 
 export default IndexPage
