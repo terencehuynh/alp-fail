@@ -74,3 +74,4 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 - [Lachlan Kingsford](http://www.nerdygentleman.com)
 - [Daniel Collins](https://dcollins.info/)
 - [Jackson Bates](https://twitter.com/jacksonbates)
+- [Patrick Nappa](https://pat.sh/)
