@@ -14,7 +14,7 @@ import { theme } from 'styled-tools'
 import { LetterText } from '../utils/letter'
 
 const Tweet =
-  'I am angry about your decision to pass #aabill and in all good conscience, I can no longer support Labor. @BillShortenMP @AustralianLabor https://alp.fail'
+  'I am angry about your decision to pass #aabill and in all good conscience, I can never support Labor. @BillShortenMP @AustralianLabor https://alp.fail'
   
 const Url =
   'https://alp.fail'
