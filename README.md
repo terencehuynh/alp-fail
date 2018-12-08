@@ -78,3 +78,4 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 - [Tim Oliver](http://timoliver.com.au)
 - [Richard Jones](https://mechanicalcat.net/richard)
 - [Ryan Bigg](https://ryanbigg.com)
+- [Alfie John](http://www.alfie.wtf)
