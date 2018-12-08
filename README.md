@@ -102,3 +102,4 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Peter Kumaschow](https://twitter.com/pkumaschow)
 - [James Clark](https://github.com/james-clark-domain)
 - [Michael Dyrynda](https://twitter.com/michaeldyrynda)
+- [Jesse Cameron](https://github.com/Jesse-Cameron/)
