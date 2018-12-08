@@ -88,3 +88,4 @@ In all good conscience, we can no longer support Labor. And we will be advocatin
 - [Matthew Schinckel](http://schinckel.net)
 - [Aria Edmonds](https://twitter.com/ar1aau)
 - [Delan Azabani](https://www.azabani.com)
+- [Rebecca Le](http://www.sevenseacat.net)
