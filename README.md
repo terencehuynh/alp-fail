@@ -208,5 +208,6 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Ashe Connor](https://kivikakk.ee)
 - [Phillip Sanderson](https://github.com/eaglestorm)
 - [Nathan Hardy](https://nhardy.id.au/)
+- [Adam Lloyd](https://evolvedprojects.io)
 
 ... [and many more.](https://twitter.com/search?f=tweets&q=%23aabill%20alp.fail)
