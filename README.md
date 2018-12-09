@@ -225,5 +225,6 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Tobias Cohen](https://tobico.net)
 - [David Vo](https://vovo.id.au)
 - [James Boyden](http://jboy.id.au)
+- [Julian Doherty](https://twitter.com/madlep/status/1070510633550938112)
 
 ... [and many more.](https://twitter.com/search?f=tweets&q=%23aabill%20alp.fail)
