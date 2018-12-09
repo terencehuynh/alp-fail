@@ -197,5 +197,6 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [David Hemming](https://twitter.com/David_Hemming)
 - [Eliza Sorensen](https://twitter.com/Zemmiph0bia/status/1071591724441432064)
 - [Luke Tuthill](https://github.com/lyneca)
+- [Nathan Malishev](https://github.com/nathanmalishev)
 
 ... [and many more.](https://twitter.com/search?f=tweets&q=%23aabill%20alp.fail)
