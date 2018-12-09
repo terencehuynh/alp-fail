@@ -224,6 +224,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Daniel Sykes-Turner](https://daniel.st)
 - [Tobias Cohen](https://tobico.net)
 - [David Vo](https://vovo.id.au)
+- [Ryan Worthington](https://github.com/RobotnikRyan)
 - [Mike Lynch](https://mikelynch.org)
 - [Samuel Leslie](https://github.com/ralish)
 - [Nathan Dench](https://github.com/ndench)
