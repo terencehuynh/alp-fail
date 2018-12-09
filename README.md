@@ -225,5 +225,17 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Tobias Cohen](https://tobico.net)
 - [David Vo](https://vovo.id.au)
 - [Tim Cuthbertson](https://github.com/timbertson)
+- [Alex Scott](https://github.com/axrs)
+- [Ryan Worthington](https://github.com/RobotnikRyan)
+- [Mike Lynch](https://mikelynch.org)
+- [Samuel Leslie](https://github.com/ralish)
+- [Nathan Dench](https://github.com/ndench)
+- [Adam Crampton](https://twitter.com/adam_crampton)
+- [Mark Greenaway](https://twitter.com/certifiedwaif)
+- [Craig O'Shannessy](https://github.com/shanness)
+- [Frederick Stark](https://twitter.com/coagmano)
+- [Grant Orchard](https://twitter.com/grantorchard
+- [James Boyden](http://jboy.id.au)
+- [Julian Doherty](https://twitter.com/madlep/status/1070510633550938112)
 
 ... [and many more.](https://twitter.com/search?f=tweets&q=%23aabill%20alp.fail)
