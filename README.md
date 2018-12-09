@@ -202,5 +202,6 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Liam Pomfret](https://twitter.com/LiamPomfret)
 - [Daniel Mvles](https://mylesapart.io)
 - [Phillip Sanderson](https://github.com/eaglestorm)
+- [Nathan Hardy](https://nhardy.id.au/)
 
 ... [and many more.](https://twitter.com/search?f=tweets&q=%23aabill%20alp.fail)
