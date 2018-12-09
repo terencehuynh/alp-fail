@@ -210,5 +210,6 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Nathan Hardy](https://nhardy.id.au/)
 - [Adam Lloyd](https://evolvedprojects.io)
 - [Tom Lynch](https://twitter.com/trmarker)
+- [Steven Lopez (@slopezAU)](https://nswindependent.com.au/)
 
 ... [and many more.](https://twitter.com/search?f=tweets&q=%23aabill%20alp.fail)
