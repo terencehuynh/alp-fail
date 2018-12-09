@@ -216,5 +216,6 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Harrison Shoebridge](https://github.com/paked)
 - [Tom Newby](https://twitter.com/tomnewbyau)
 - [Aleksa Sarai](https://www.cyphar.com/)
+- [Curtis Millar](https://twitter.com/curtismillar)
 
 ... [and many more.](https://twitter.com/search?f=tweets&q=%23aabill%20alp.fail)
