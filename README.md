@@ -219,5 +219,6 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Sam Spilsbury](https://github.com/smspillaz)
 - [Curtis Millar](https://twitter.com/curtismillar)
 - [Tom Sullivan](https://github.com/msbit)
+- [Shayne O'Neill](http://github.com/shayneoneill)
 
 ... [and many more.](https://twitter.com/search?f=tweets&q=%23aabill%20alp.fail)
