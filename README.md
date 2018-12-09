@@ -224,6 +224,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Daniel Sykes-Turner](https://daniel.st)
 - [Tobias Cohen](https://tobico.net)
 - [David Vo](https://vovo.id.au)
+- [Adam Crampton](https://twitter.com/adam_crampton)
 - [Mark Greenaway](https://twitter.com/certifiedwaif)
 - [Craig O'Shannessy](https://github.com/shanness)
 - [Frederick Stark](https://twitter.com/coagmano)
