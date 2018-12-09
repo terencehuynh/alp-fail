@@ -201,6 +201,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Effy Elden](https://twitter.com/ineffyble/status/1071621154601758721) 
 - [Liam Pomfret](https://twitter.com/LiamPomfret)
 - [Daniel Mvles](https://mylesapart.io)
+- [Andrew Hamilton](https://twitter.com/TassSinclair/status/1071624472774434819)
 - [Charling Li](https://charlingli.github.io)
 - [Huw Rowlands](https://huwr.net)
 - [Alex Eckermann](https://twitter.com/alexeckermann)
