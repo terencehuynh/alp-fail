@@ -212,5 +212,8 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Tom Lynch](https://twitter.com/trmarker)
 - [Steven Lopez (@slopezAU)](https://nswindependent.com.au/)
 - [Ash Guy (@theashguy)](https://ashguy.com/)
+- [Alex Ferrara] (https://twitter.com/alexcferrara/status/1071686491074551808)
+- [Harrison Shoebridge](https://github.com/paked)
+- [Tom Newby](https://twitter.com/tomnewbyau)
 
 ... [and many more.](https://twitter.com/search?f=tweets&q=%23aabill%20alp.fail)
