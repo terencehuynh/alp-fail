@@ -224,5 +224,6 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Daniel Sykes-Turner](https://daniel.st)
 - [Tobias Cohen](https://tobico.net)
 - [David Vo](https://vovo.id.au)
+- [Adam Crampton](https://twitter.com/adam_crampton)
 
 ... [and many more.](https://twitter.com/search?f=tweets&q=%23aabill%20alp.fail)
