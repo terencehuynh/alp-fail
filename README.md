@@ -235,7 +235,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Mark Greenaway](https://twitter.com/certifiedwaif)
 - [Craig O'Shannessy](https://github.com/shanness)
 - [Frederick Stark](https://twitter.com/coagmano)
-- [Grant Orchard](https://twitter.com/grantorchard
+- [Grant Orchard](https://twitter.com/grantorchard)
 - [James Boyden](http://jboy.id.au)
 - [Julian Doherty](https://twitter.com/madlep/status/1070510633550938112)
 
