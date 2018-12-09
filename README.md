@@ -198,7 +198,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Eliza Sorensen](https://twitter.com/Zemmiph0bia/status/1071591724441432064)
 - [Luke Tuthill](https://github.com/lyneca)
 - [Nathan Malishev](https://github.com/nathanmalishev)
-- [Effy Elden](https://twitter.com/ineffyble/status/1071621154601758721) 
+- [Effy Elden](https://twitter.com/ineffyble/status/1071621154601758721)
 - [Liam Pomfret](https://twitter.com/LiamPomfret)
 - [Daniel Myles](https://mylesapart.io)
 - [Andrew Hamilton](https://twitter.com/TassSinclair/status/1071624472774434819)
@@ -215,5 +215,6 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Alex Ferrara] (https://twitter.com/alexcferrara/status/1071686491074551808)
 - [Harrison Shoebridge](https://github.com/paked)
 - [Tom Newby](https://twitter.com/tomnewbyau)
+- [Aleksa Sarai](https://www.cyphar.com/)
 
 ... [and many more.](https://twitter.com/search?f=tweets&q=%23aabill%20alp.fail)
