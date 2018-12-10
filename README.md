@@ -150,6 +150,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Jesse Cameron](https://github.com/Jesse-Cameron/)
 - [Jonathan Lowden](https://github.com/jdlowden)
 - [Joshua Bourke](https://twitter.com/Buorky/status/1070866643083882496)
+- [Senator Jordon Steele-John](https://twitter.com/Jordonsteele/status/1071930560279306241)
 - [Julian Doherty](https://twitter.com/madlep/status/1070510633550938112)
 - [Kate Crawford](https://twitter.com/kate_eviva/status/1071237428227190787)
 - [Lachlan Kingsford](http://www.nerdygentleman.com)
