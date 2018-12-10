@@ -79,6 +79,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Asher Wolf](https://twitter.com/Asher_Wolf/status/1070965065254297600)
 - [Ben Chester](https://twitter.com/Twistie404)
 - [Benji Greig](https://twitter.com/benjigreig/status/1071034217864122370)
+- [Ben Noonan](https://twitter.com/BenNoonan4/status/1072042649568215040)
 - [Bill Cruikshank](https://twitter.com/Jestingrabbit/status/1071044564444569600)
 - [Bob Woolley](https://twitter.com/boblobsta/status/1071071464810520576)
 - [Brandon Matthews](https://twitter.com/_brandonjm/status/1071956488397058048)
