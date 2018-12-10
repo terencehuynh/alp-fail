@@ -187,6 +187,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Nathan Dench](https://github.com/ndench)
 - [Nathan Hardy](https://nhardy.id.au/)
 - [Nathan Malishev](https://github.com/nathanmalishev)
+- [Neil Forbes-Richardson](https://github.com/neilogd)
 - [Patrick Mifsud](https://patrickmfsd.github.io)
 - [Patrick Murray](https://patmurray.co)
 - [Patrick Nappa](https://pat.sh/)
