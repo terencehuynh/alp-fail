@@ -80,6 +80,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Bill Cruikshank](https://twitter.com/Jestingrabbit/status/1071044564444569600)
 - [Bob Woolley](https://twitter.com/boblobsta/status/1071071464810520576)
 - [Brandon Matthews](https://twitter.com/_brandonjm/status/1071956488397058048)
+- [Brendan Taylor](https://tng.wtf)
 - [Bruno Mattarollo](https://twitter.com/bmatt/status/1070984761995231232)
 - [Cail Young](https:/twitter.com/cailyoung)
 - [Chad Smith](https://twitter.com/Brausmith/status/1070921468278534144)
