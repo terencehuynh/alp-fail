@@ -115,6 +115,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Eamon Logue](https://twitter.com/Ultimus_Maximus/status/1071031978139340800)
 - [Ed Dale](https://twitter.com/Ed_Dale/status/1070977749689368577)
 - [Edwin (@edgranau)](https://twitter.com/edgranau/status/1071000025516269568)
+- [Elijah Glover](https://twitter.com/elijahglover)
 - [Effy Elden](https://twitter.com/ineffyble/status/1071621154601758721)
 - [Eliza Sorensen](https://twitter.com/Zemmiph0bia/status/1071591724441432064)
 - [Eric Delaney](https://twitter.com/ericdelaney/status/1071301886777556992)
