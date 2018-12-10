@@ -218,6 +218,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Samuel Leslie](https://github.com/ralish)
 - [Shane MacPhillamy](https://twitter.com/coaic/status/1071153063715459072)
 - [Shaun Branden](https://twitter.com/parsect)
+- [Shaun Daws](https://github.com/shaundaws)
 - [Shaun Ruigrok](https://twitter.com/Shaun_R/status/1070988851932360705)
 - [Shawn O'Neill](https://twitter.com/ShawnOnTheNet/status/1071112276810199040)
 - [Simon Cocking](https://twitter.com/mowog/status/1071211738345857025)
