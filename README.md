@@ -149,6 +149,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [James Dale](https://jamesdale.com.au)
 - [James Hanford](http://projkt.io/)
 - [Jason Brown](https://github.com/stopthatastronaut)
+- [Jered Masters](https://jered.cc)
 - [Jeremy Bornstein](https://jeremy.org)
 - [Jess Telford](https://jes.st/about)
 - [Jesse Cameron](https://github.com/Jesse-Cameron/)
