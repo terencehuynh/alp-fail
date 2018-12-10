@@ -257,5 +257,6 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Zachary Simone](https://zachsim.one/)
 - [kolchy](https://twitter.com/kolchy/status/1071017625839296513)
 - [sortius](https://twitter.com/sortius/status/1070984053057216513)
+- [Joshua Holmes) (https://twitter.com/JoshDHolmes)
 
 ... [and many more.](https://twitter.com/search?f=tweets&q=%23aabill%20alp.fail)
