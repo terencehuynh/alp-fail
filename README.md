@@ -245,6 +245,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Tony Tamplin](https://github.com/tonytamps)
 - [Dr Tom Tilly](https://twitter.com/ThomasTilley14/status/1071363902863138816)
 - [Will Hackett](https://www.willhackett.com)
+- [William Holt](https://github.com/halbrd)
 - [Zachary Simone](https://zachsim.one/)
 - [kolchy](https://twitter.com/kolchy/status/1071017625839296513)
 - [sortius](https://twitter.com/sortius/status/1070984053057216513)
