@@ -49,6 +49,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 
 - [Aaron Horler](https://github.com/aghorler)
 - [Aaron Mason](https://github.com/thirdwheel)
+- [Aaron Powell](https://www.aaron-powell.com)
 - [Adam Crampton](https://twitter.com/adam_crampton)
 - [Adam Lloyd](https://evolvedprojects.io)
 - [Adam Mills](https://twitter.com/MillsAdam/status/1071333240319893504)
