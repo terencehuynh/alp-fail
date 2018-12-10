@@ -232,6 +232,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Stephen Merity](http://smerity.com/)
 - [Stephen Rees-Carter](https://stephenreescarter.net)
 - [Steve Forbes](https://twitter.com/forbze/status/1071097533487874048)
+- [Steven Allen](https://stevena.me)
 - [Steven Lopez (@slopezAU)](https://nswindependent.com.au/)
 - [Taryn Ewens](https://twitter.com/tarynewens/status/1071321149672370176)
 - [Tate Bulic](https://twitter.com/taytemss/status/1070973665456472064)
