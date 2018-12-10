@@ -181,6 +181,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Michael Ensly](http://mens.ly)
 - [Michael Hossen](https://twitter.com/mhossen/status/1070902172529741824)
 - [Michael Mulhern](https://twitter.com/the_jongleur/status/1070990859108110336)
+- [Michael Shang](https://github.com/mxs)
 - [Mick Semb Wever](https://about.me/wever)
 - [Mike Kreuzer](https://mikekreuzer.com)
 - [Mike Lynch](https://mikelynch.org)
