@@ -174,6 +174,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Matt Traynor](https://twitter.com/_mtau/status/1070886980597084160)
 - [Matt Trimarchi](https://twitter.com/mattems/status/1070982527341318144)
 - [Matthew Cengia](https://blog.mattcen.com)
+- [Matthew King](https://github.com/matthewking)
 - [Matthew Riddle](https://twitter.com/matthewriddle/status/1070977732454965248)
 - [Matthew Schinckel](http://schinckel.net)
 - [Michael Barnett](https://twitter.com/shuttah627)
