@@ -133,6 +133,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Geoffrey Huntley](https://ghuntley.com/live)
 - [George Haritonidis](https://twitter.com/georgeharito/status/1070972510265499648)
 - [Gerard Hook](https://twitter.com/gcpsoundlight/status/1070953878944772096)
+- [Gilberto Olimpio](https://twitter.com/golimpio)
 - [Grant Orchard](https://twitter.com/grantorchard)
 - [Hacik Ozdil](https://hacik.io)
 - [Hammy Goonan](https://github.com/hammygoonan)
