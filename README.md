@@ -242,6 +242,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Tate Bulic](https://twitter.com/taytemss/status/1070973665456472064)
 - [Terence Huynh](https://twitter.com/terencehuynh)
 - [Terry Sweetser](https://about.me/terry.sweetser)
+- [Tim Butler](https://twitter.com/timbutler)
 - [Tim Cuthbertson](https://github.com/timbertson)
 - [Tim Oliver](http://timoliver.com.au)
 - [Tim Serong](https://ourobengr.com)
