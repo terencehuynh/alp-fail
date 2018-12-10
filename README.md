@@ -73,6 +73,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Anthony Aguis](https://twitter.com/decryption/status/1070963739707375616)
 - [Anthony Foster](https://af.id.au)
 - [Aria Edmonds](https://twitter.com/ar1aau)
+- [Aron Bury](https://github.com/abury)
 - [Ash Guy (@theashguy)](https://ashguy.com/)
 - [Ashe Connor](https://kivikakk.ee)
 - [Asher Wolf](https://twitter.com/Asher_Wolf/status/1070965065254297600)
