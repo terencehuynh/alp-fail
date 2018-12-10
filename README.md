@@ -93,6 +93,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Craig O'Shannessy](https://github.com/shanness)
 - [Curtis Millar](https://twitter.com/curtismillar)
 - [Damion Brown](https://twitter.com/thatsdamion/status/1071165344021004288)
+- [Damon Swayn](https://twitter.com/Shruubi)
 - [Dr Daniel Angus](https://twitter.com/antmandan/status/1070989681863483392)
 - [Daniel Baird](https://twitter.com/danieljbaird/status/1070974654230102016)
 - [Daniel Burke](https://twitter.com/shortcutman_/status/1070974916374085633)
