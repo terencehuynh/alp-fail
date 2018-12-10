@@ -218,6 +218,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Shaun Ruigrok](https://twitter.com/Shaun_R/status/1070988851932360705)
 - [Shawn O'Neill](https://twitter.com/ShawnOnTheNet/status/1071112276810199040)
 - [Simon Cocking](https://twitter.com/mowog/status/1071211738345857025)
+- [Stephen Merity](http://smerity.com/)
 - [Stephen Rees-Carter](https://stephenreescarter.net)
 - [Steve Forbes](https://twitter.com/forbze/status/1071097533487874048)
 - [Steven Lopez (@slopezAU)](https://nswindependent.com.au/)
