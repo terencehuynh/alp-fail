@@ -207,6 +207,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Patrick Mifsud](https://patrickmfsd.github.io)
 - [Patrick Murray](https://patmurray.co)
 - [Patrick Nappa](https://pat.sh/)
+- [Patrick O'Meara](https://twitter.com/patomeara/status/1069912309647126528)
 - [Paul Gear](https://twitter.com/paulgear1/status/1071235009346920448)
 - [Paul Warren](https://twitter.com/pawarren/status/1071265023840768001)
 - [Peter "StormCroe" Argent](https://twitter.com/TempestuousCroe/status/1071015045692149760)
