@@ -43,7 +43,7 @@ Being against the so-called "Assistance and Access Bill" does not mean you are i
 
 We are against the bill because it is a destructive and shortsighted law. In addition, most of (if not all) the services that law enforcement want to target with this law are based outside of Australia. This law is effectively useless in forcing them to build backdoors or break encryption.
 
-In all good conscience, we can no longer support Labor. We will be advocating for people to choose those who protect digital rights.
+In all good conscience, we can no longer support Labor. We will be advocating for people to choose [those who protect digital rights](https://www.efa.org.au/our-work/elections/).
 
 ## Signed
 
