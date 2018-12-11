@@ -183,6 +183,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Joshua Richards](https://github.com/JoshuaRichards)
 - [Julian Doherty](https://twitter.com/madlep/status/1070510633550938112)
 - [Kate Crawford](https://twitter.com/kate_eviva/status/1071237428227190787)
+- [Kevin Jiah-Chih Liao](https://twitter.com/kevjcl/status/1072584129588461568)
 - [Lachlan Kingsford](http://www.nerdygentleman.com)
 - [Lawrence Meckan](https://twitter.com/absalomedia/status/1070950409085247488)
 - [Leigh Stillard](https://twitter.com/LeighStillard/status/1070836261886210048)
