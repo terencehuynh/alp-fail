@@ -205,6 +205,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Nathan Malishev](https://github.com/nathanmalishev)
 - [Nat Kershaw](https://twitter.com/worddecree)
 - [Neil Forbes-Richardson](https://github.com/neilogd)
+- [Olivier Mehani](https://olivier.mehani.name)
 - [Owen Andrews](https://twitter.com/owenandrews_)
 - [Patrick Mifsud](https://patrickmfsd.github.io)
 - [Patrick Murray](https://patmurray.co)
