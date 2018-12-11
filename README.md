@@ -139,6 +139,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Flick Ruby](https://twitter.com/FlickRubicon/status/1070993296225296384)
 - [Frank Panetta](https://twitter.com/fattenap/status/1071156209074360320)
 - [Frederick Stark](https://twitter.com/coagmano)
+- [Geoff Capper](https://github.com/GeoffCapper)
 - [Geoffrey Huntley](https://ghuntley.com/live)
 - [George Haritonidis](https://twitter.com/georgeharito/status/1070972510265499648)
 - [Gerard Hook](https://twitter.com/gcpsoundlight/status/1070953878944772096)
