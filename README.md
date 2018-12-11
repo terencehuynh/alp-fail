@@ -172,6 +172,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Jess Telford](https://jes.st/about)
 - [Jesse Cameron](https://github.com/Jesse-Cameron/)
 - [Jonathan Lowden](https://github.com/jdlowden)
+- [Jordan Overbye](https://jordanoverbye.com)
 - [Joshua Bourke](https://twitter.com/Buorky/status/1070866643083882496)
 - [Joshua Holmes](https://twitter.com/JoshDHolmes)
 - [Senator Jordon Steele-John](https://twitter.com/Jordonsteele/status/1071930560279306241)
