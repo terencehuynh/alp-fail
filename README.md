@@ -202,6 +202,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Matthew Schinckel](http://schinckel.net)
 - [Matthew Taylor](https://twitter.com/MtyTaylor/status/1072082238731313152)
 - [Michael Barnett](https://twitter.com/shuttah627)
+- [Dr Michael Buskin](https://github.com/mbuskin)
 - [Michael Dyrynda](https://twitter.com/michaeldyrynda)
 - [Michael Ensly](http://mens.ly)
 - [Michael Hossen](https://twitter.com/mhossen/status/1070902172529741824)
