@@ -187,6 +187,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Matthew King](https://github.com/matthewking)
 - [Matthew Riddle](https://twitter.com/matthewriddle/status/1070977732454965248)
 - [Matthew Schinckel](http://schinckel.net)
+- [Matthew Taylor](https://twitter.com/MtyTaylor/status/1072082238731313152)
 - [Michael Barnett](https://twitter.com/shuttah627)
 - [Michael Dyrynda](https://twitter.com/michaeldyrynda)
 - [Michael Ensly](http://mens.ly)
