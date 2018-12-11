@@ -236,7 +236,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Patrick Nappa](https://pat.sh/)
 - [Patrick O'Meara](https://twitter.com/patomeara/status/1069912309647126528)
 - [Paul Gear](https://twitter.com/paulgear1/status/1071235009346920448)
-- [Paul Haesler] (http://github.com/SpacemanPaul)
+- [Paul Haesler](http://github.com/SpacemanPaul)
 - [Paul Warren](https://twitter.com/pawarren/status/1071265023840768001)
 - [Peter "StormCroe" Argent](https://twitter.com/TempestuousCroe/status/1071015045692149760)
 - [Peter Argent](https://www.peterargent.com)
@@ -302,5 +302,6 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [kolchy](https://twitter.com/kolchy/status/1071017625839296513)
 - [sortius](https://twitter.com/sortius/status/1070984053057216513)
 - [josht](https://twitter.com/@joshteperman)
+- [Jett Jackson](https://jettjacksonmedia.com)
 
 ... [and many more.](https://twitter.com/search?f=tweets&q=%23aabill%20alp.fail)
