@@ -230,6 +230,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Phil Nickl](https://philnickl.com)
 - [Phillip Sanderson](https://github.com/eaglestorm)
 - [Phillip Smith](https://twitter.com/fukawi2/status/1071200289301028864)
+- [Rafael Gonzalez](https://github.com/rafaelgonzalez)
 - [Rebecca Le](http://www.sevenseacat.net)
 - [Renlord Yang](https://renlord.com)
 - [Ric Hayman](https://achurchassociates.com)
