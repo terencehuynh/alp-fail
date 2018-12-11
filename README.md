@@ -193,6 +193,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Mark Greenaway](https://twitter.com/certifiedwaif)
 - [Mark Perry](https://twitter.com/MarkInPixels/status/1070987491698651137)
 - [Mark Reid](https://twitter.com/foddrick/status/1071126503687999488)
+- [Martin Feckie](https://mfeckie.github.io/)
 - [Martin Hyland](https://gitlab.com/martinhyland)
 - [Matt (@MJTnetau)](https://twitter.com/MJTnetau/status/1071030887129636865)
 - [Matt Cramp](https://twitter.com/merusworks/status/1070979902034259968)
