@@ -225,6 +225,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Neil Forbes-Richardson](https://github.com/neilogd)
 - [Olivier Mehani](https://olivier.mehani.name)
 - [Owen Andrews](https://twitter.com/owenandrews_)
+- [Patrick Ivers](https://pjivers.com)
 - [Patrick Mifsud](https://patrickmfsd.github.io)
 - [Patrick Murray](https://patmurray.co)
 - [Patrick Nappa](https://pat.sh/)
