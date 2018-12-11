@@ -186,6 +186,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Lachlan Kingsford](http://www.nerdygentleman.com)
 - [Lawrence Meckan](https://twitter.com/absalomedia/status/1070950409085247488)
 - [Leigh Stillard](https://twitter.com/LeighStillard/status/1070836261886210048)
+- [Lewis Freiberg](https://twitter.com/lewisfreiberg)
 - [Liam Pomfret](https://twitter.com/LiamPomfret)
 - [Lucas Winterbottom](https://lucaswinterbotttom.com)
 - [Luke Davis](https://twitter.com/LukeLukus22/status/1070863976517357568)
