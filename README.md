@@ -128,6 +128,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Eric Delaney](https://twitter.com/ericdelaney/status/1071301886777556992)
 - [Eric Doriean](https://twitter.com/EricDoriean/status/1071183024740491264)
 - [Eric Jiang](https://lorderikir.me)
+- [Erik de Castro Lopo](https://github.com/erikd)
 - [Erin Beel](https://twitter.com/erinbeel)
 - [Ethan Gillespie](https://twitter.com/FuzzyToaster)
 - [Eugene Van den Bulke](https://twitter.com/3kwa/status/1071330758936092673)
