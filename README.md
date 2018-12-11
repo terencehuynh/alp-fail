@@ -81,6 +81,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Benji Greig](https://twitter.com/benjigreig/status/1071034217864122370)
 - [Bill Cruikshank](https://twitter.com/Jestingrabbit/status/1071044564444569600)
 - [Bob Woolley](https://twitter.com/boblobsta/status/1071071464810520576)
+- [Brady Clarke](https://www.bradyclarke.com)
 - [Brandon Matthews](https://twitter.com/_brandonjm/status/1071956488397058048)
 - [Brendan Taylor](https://tng.wtf)
 - [Bruno Mattarollo](https://twitter.com/bmatt/status/1070984761995231232)
