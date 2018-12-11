@@ -112,6 +112,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Daniel Sykes-Turner](https://daniel.st)
 - [Darragh Kennedy](https://twitter.com/darraghke/status/1071023173980762112)
 - [Darren Cocco](https://blog.segfault.id.au)
+- [Dave Finster](https://github.com/davefinster)
 - [Dave The Happy Singer](https://twitter.com/HappySinger/status/1071253783907262464)
 - [David Allen](https://github.com/StaphSynth)
 - [David Hemming](https://twitter.com/David_Hemming)
