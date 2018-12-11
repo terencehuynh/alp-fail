@@ -235,6 +235,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Renlord Yang](https://renlord.com)
 - [Ric Hayman](https://achurchassociates.com)
 - [Richard Bean](https://twitter.com/elahieh/status/1070967394082799616)
+- [Richard Burleigh](https://richardburleigh.com.au)
 - [Richard Jones](https://mechanicalcat.net/richard)
 - [Rick C](https://twitter.com/metao/status/1071063913276424194)
 - [Rob Sanders](https://twitter.com/AusRob/status/1070963199657181184)
