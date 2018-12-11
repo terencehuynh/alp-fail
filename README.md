@@ -119,6 +119,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [David Hillier](https://twitter.com/MobileInfantry/status/1070920364480294912)
 - [David Hows](https://github.com/daveh86)
 - [David James](https://twitter.com/daviddeejjames/status/1071022934662074368)
+- [David Nedved](http://nedved.com.au/)
 - [David Osborne](https://twitter.com/Ramiel01/status/1071028451908308992)
 - [David Thorfinn Goh](https://github.com/thorfi)
 - [David Vo](https://vovo.id.au)
