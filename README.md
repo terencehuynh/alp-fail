@@ -96,6 +96,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Chris (@nitecoder)](https://twitter.com/nitecoder/status/1071007354940878848)
 - [Chris Atkins](https://twitter.com/itscatkins/status/1071135137146912768)
 - [Chris Duell](http://twitter.com/duellsy)
+- [Claudine Chionh](http://www.claudinec.net)
 - [Cody Miller-Kelly](https://c.zu.io)
 - [Corey Ginnivan](https://twitter.com/CoreyGinnivan)
 - [Colin Panisset](https://twitter.com/nonspecialist/status/1071347121352142848)
