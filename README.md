@@ -43,7 +43,7 @@ Being against the so-called "Assistance and Access Bill" does not mean you are i
 
 We are against the bill because it is a destructive and shortsighted law. In addition, most of (if not all) the services that law enforcement want to target with this law are based outside of Australia. This law is effectively useless in forcing them to build backdoors or break encryption.
 
-In all good conscience, we can no longer support Labor. We will be advocating for people to choose those who protect digital rights.
+In all good conscience, we can no longer support Labor. We will be advocating for people to choose [those who protect digital rights](https://www.efa.org.au/our-work/elections/).
 
 ## Signed
 
@@ -154,6 +154,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Horus Kol](https://twitter.com/horus_kol/status/1071180354218807296)
 - [Hugo Müller-Downing](https://hugo.md/)
 - [Huw Rowlands](https://huwr.net)
+- [Ian Knight](http://knightly.xyz)
 - [J Kaul](https://twitter.com/j_kaul/status/1070986054037987329)
 - [Jackson Bates](https://twitter.com/jacksonbates)
 - [James Austin](http://jamesaust.in/)
