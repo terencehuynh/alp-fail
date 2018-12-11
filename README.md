@@ -199,6 +199,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Matt Trimarchi](https://twitter.com/mattems/status/1070982527341318144)
 - [Matthew Cengia](https://blog.mattcen.com)
 - [Matthew King](https://github.com/matthewking)
+- [Matthew Redmond](https://mattr.github.io)
 - [Matthew Riddle](https://twitter.com/matthewriddle/status/1070977732454965248)
 - [Matthew Schinckel](http://schinckel.net)
 - [Matthew Taylor](https://twitter.com/MtyTaylor/status/1072082238731313152)
