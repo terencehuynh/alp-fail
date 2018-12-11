@@ -84,6 +84,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Brandon Matthews](https://twitter.com/_brandonjm/status/1071956488397058048)
 - [Brendan Taylor](https://tng.wtf)
 - [Bruno Mattarollo](https://twitter.com/bmatt/status/1070984761995231232)
+- [Byron Jones](https://mozillians.org/u/glob)
 - [Cail Young](https:/twitter.com/cailyoung)
 - [Chad Smith](https://twitter.com/Brausmith/status/1070921468278534144)
 - [Chad Tolkien](https://twitter.com/c_tolkien/status/1070994544022347776)
