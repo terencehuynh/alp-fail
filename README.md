@@ -79,6 +79,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Ash Guy (@theashguy)](https://ashguy.com/)
 - [Ashe Connor](https://kivikakk.ee)
 - [Asher Wolf](https://twitter.com/Asher_Wolf/status/1070965065254297600)
+- [Ayesh Karunaratne](https://ayesh.me)
 - [Ben Chester](https://twitter.com/Twistie404)
 - [Benjamin Smith](https://www.lix.polytechnique.fr/~smith/)
 - [Benji Greig](https://twitter.com/benjigreig/status/1071034217864122370)
