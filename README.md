@@ -64,6 +64,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Alex Scott](https://github.com/axrs)
 - [Alexia McDonald](https://www.alexiamcdonald.com.au)
 - [Alfie John](http://www.alfie.wtf)
+- [Amelia Fletcher](https://github.com/salmonmoose)
 - [Andrei Charrett](https://twitter.com/nnnbrewery/status/1070972262545743873)
 - [Andrej Panjkov](https://twitter.com/AndrejPanjkov/status/1070989538346954752)
 - [Andrew Hamilton](https://twitter.com/TassSinclair/status/1071624472774434819)
