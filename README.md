@@ -193,6 +193,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Luke Davis](https://twitter.com/LukeLukus22/status/1070863976517357568)
 - [Luke Hamilton](https://twitter.com/lukekhamilton/status/1070983759023882240)
 - [Luke Tuthill](https://github.com/lyneca)
+- [Marco Pivetta](https://ocramius.github.io/)
 - [Mark Greenaway](https://twitter.com/certifiedwaif)
 - [Mark Perry](https://twitter.com/MarkInPixels/status/1070987491698651137)
 - [Mark Reid](https://twitter.com/foddrick/status/1071126503687999488)
