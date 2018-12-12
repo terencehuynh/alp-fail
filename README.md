@@ -307,5 +307,6 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [sortius](https://twitter.com/sortius/status/1070984053057216513)
 - [josht](https://twitter.com/@joshteperman)
 - [Jett Jackson](https://jettjacksonmedia.com)
+- [Craig Davies](https://twitter.com/crdavies)
 
 ... [and many more.](https://twitter.com/search?f=tweets&q=%23aabill%20alp.fail)
