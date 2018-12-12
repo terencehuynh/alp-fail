@@ -158,6 +158,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Harrison Shoebridge](https://github.com/paked)
 - [Harry Tucker](https://dropsmedia.io)
 - [Horus Kol](https://twitter.com/horus_kol/status/1071180354218807296)
+- [Hugh Campbell](https://github.com/hughc)
 - [Hugo Müller-Downing](https://hugo.md/)
 - [Huw Rowlands](https://huwr.net)
 - [Ian Knight](http://knightly.xyz)
