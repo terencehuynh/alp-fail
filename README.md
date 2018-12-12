@@ -47,6 +47,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 
 ## Signed
 
+- [Aaron Boyd](https://github.com/aaronmboyd)
 - [Aaron Horler](https://github.com/aghorler)
 - [Aaron Mason](https://github.com/thirdwheel)
 - [Aaron Powell](https://www.aaron-powell.com)
