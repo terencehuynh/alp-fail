@@ -67,6 +67,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Andrei Charrett](https://twitter.com/nnnbrewery/status/1070972262545743873)
 - [Andrej Panjkov](https://twitter.com/AndrejPanjkov/status/1070989538346954752)
 - [Andrew Hamilton](https://twitter.com/TassSinclair/status/1071624472774434819)
+- [Andris Trieb](https://github.com/andristrieb)
 - [Andy Dent](https://twitter.com/AndyDentPerth/status/1070976479058481154)
 - [Andy Kelk](https://www.andykelk.net/)
 - [Anna Tito](https://twitter.com/MythicalC/status/1070865646949298177)
