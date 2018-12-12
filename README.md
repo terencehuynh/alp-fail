@@ -167,6 +167,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [James Boyden](http://jboy.id.au)
 - [James Clark](https://github.com/james-clark-domain)
 - [James Dale](https://jamesdale.com.au)
+- [James Ducker](https://ozvolvo.org)
 - [James Goodridge](https://twitter.com/ljamgood/status/1071978179244384257)
 - [James Hanford](http://projkt.io/)
 - [Jason Brown](https://github.com/stopthatastronaut)
