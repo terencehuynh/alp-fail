@@ -264,6 +264,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Rob Sanders](https://twitter.com/AusRob/status/1070963199657181184)
 - [Robert Hudson](https://twitter.com/manaz_d/status/1070999755134619648)
 - [Robert Koch](https://me.kochie.io)
+- [Ruben Schade](https://rubenerd.com/)
 - [Ryan Bigg](https://ryanbigg.com)
 - [Ryan Worthington](https://github.com/RobotnikRyan)
 - [Safwan Kamarrudin](https://twitter.com/SafwanDotErl/status/1070991233462427648)
