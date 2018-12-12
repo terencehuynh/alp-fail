@@ -296,6 +296,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Stewart Smith (@stewartsmith)](https://www.flamingspork.com/)
 - [Stewart Wilson](https://twitter.com/swilsonau)
 - [Stuart Jones](https://twitter.com/horus_kol/status/1071180354218807296)
+- [Tanner Bennett](https://github.com/NSExceptional)
 - [Taryn Ewens](https://twitter.com/tarynewens/status/1071321149672370176)
 - [Tate Bulic](https://twitter.com/taytemss/status/1070973665456472064)
 - [Terence Huynh](https://twitter.com/terencehuynh)
