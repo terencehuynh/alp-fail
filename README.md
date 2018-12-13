@@ -17,6 +17,8 @@ Alternatively, you can send [a tweet](https://twitter.com/intent/tweet?text=I%20
 
 Dear Bill Shorten and the Australian Labor Party,
 
+\* Our previous title was ableist and hostile; sorry about that.
+
 Words cannot describe how angry we feel after your gutless and spineless decision to blindly support the Government's so-called "Assistance and Access Bill" (#aabill). You even sacrificed the children locked up in offshore detention centres just so you couldn't be labelled as supporters of terrorists and pedophiles.
 
 All of you had doubts about the law. [You said that it was rushed. You said that it was flawed](https://www.buzzfeed.com/joshtaylor/labor-this-encryption-law-is-flawed-also-labor-we-voted-for). And yet, you still let it through the House of Representatives.
