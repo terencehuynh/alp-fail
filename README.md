@@ -294,6 +294,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Simon Cocking](https://twitter.com/mowog/status/1071211738345857025)
 - [Simon Dwyer](https://github.com/SimmyD)
 - [Stephen Merity](http://smerity.com/)
+- [Stephen Muss](https://github.com/stephenmuss)
 - [Stephen Rees-Carter](https://stephenreescarter.net)
 - [Steve Dalton](https://twitter.com/spidie)
 - [Steve Forbes](https://twitter.com/forbze/status/1071097533487874048)
