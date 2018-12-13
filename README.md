@@ -279,6 +279,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Robert Koch](https://me.kochie.io)
 - [Ruben Schade](https://rubenerd.com/)
 - [Ryan Bigg](https://ryanbigg.com)
+- [Ryan Chausse](http://ryanchausse.com)
 - [Ryan Worthington](https://github.com/RobotnikRyan)
 - [Safwan Kamarrudin](https://twitter.com/SafwanDotErl/status/1070991233462427648)
 - [Sam Bailey](https://twitter.com/that_sam_guy/status/1071348043612545024)
