@@ -274,6 +274,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Richard Jones](https://mechanicalcat.net/richard)
 - [Rick C](https://twitter.com/metao/status/1071063913276424194)
 - [Rithesh J](https://github.com/AgentAileron)
+- [Rhys Lloyd](https://github.com/justrhysism)
 - [Rob Sanders](https://twitter.com/AusRob/status/1070963199657181184)
 - [Robert Hudson](https://twitter.com/manaz_d/status/1070999755134619648)
 - [Robert Koch](https://me.kochie.io)
