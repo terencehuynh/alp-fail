@@ -76,6 +76,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Anna Tito](https://twitter.com/MythicalC/status/1070865646949298177)
 - [Ant](https://twitter.com/AntB77/status/1071016441997025282)
 - [Anthony Aguis](https://twitter.com/decryption/status/1070963739707375616)
+- [Anthony Del Ciotto](https://adelciotto.me)
 - [Anthony Foster](https://af.id.au)
 - [Anthony Manning-Franklin](https://github.com/antman262)
 - [Aria Edmonds](https://twitter.com/ar1aau)
