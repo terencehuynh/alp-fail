@@ -203,6 +203,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Leigh Stillard](https://twitter.com/LeighStillard/status/1070836261886210048)
 - [Lewis Freiberg](https://twitter.com/lewisfreiberg)
 - [Liam Pomfret](https://twitter.com/LiamPomfret)
+- [Lucas Nelson](https://github.com/lucas-nelson)
 - [Lucas Winterbottom](https://lucaswinterbotttom.com)
 - [Luke Davis](https://twitter.com/LukeLukus22/status/1070863976517357568)
 - [Luke Hamilton](https://twitter.com/lukekhamilton/status/1070983759023882240)
