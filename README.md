@@ -162,6 +162,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Gerard Hook](https://twitter.com/gcpsoundlight/status/1070953878944772096)
 - [Gilberto Olimpio](https://twitter.com/golimpio)
 - [Grant Orchard](https://twitter.com/grantorchard)
+- [Guy Aldous](https://lysdexia.digital)
 - [Hacik Ozdil](https://hacik.io)
 - [Hammy Goonan](https://github.com/hammygoonan)
 - [Harrison Shoebridge](https://github.com/paked)
