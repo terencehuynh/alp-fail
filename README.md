@@ -323,6 +323,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Vatsalya Goel](https://vatsalyagoel.com/)
 - [Will Hackett](https://www.willhackett.com)
 - [William Holt](https://github.com/halbrd)
+- [Xuebing Li](https://xuebing.io)
 - [Zachary Simone](https://zachsim.one/)
 - [kolchy](https://twitter.com/kolchy/status/1071017625839296513)
 - [sortius](https://twitter.com/sortius/status/1070984053057216513)
