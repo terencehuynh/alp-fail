@@ -105,6 +105,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Chris Atkins](https://twitter.com/itscatkins/status/1071135137146912768)
 - [Chris Duell](http://twitter.com/duellsy)
 - [Chris J. Kelly](https://twitter.com/chriskelly7777)
+- [Claudia Tu](https://github.com/cloudier)
 - [Claudine Chionh](http://www.claudinec.net)
 - [Cody Miller-Kelly](https://c.zu.io)
 - [Corey Ginnivan](https://twitter.com/CoreyGinnivan)
