@@ -164,6 +164,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Gilberto Olimpio](https://twitter.com/golimpio)
 - [Glenn Schmidt](https://github.com/glennschmidt)
 - [Grant Orchard](https://twitter.com/grantorchard)
+- [Guy Aldous](https://lysdexia.digital)
 - [Hacik Ozdil](https://hacik.io)
 - [Hammy Goonan](https://github.com/hammygoonan)
 - [Harrison Shoebridge](https://github.com/paked)
