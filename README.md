@@ -122,6 +122,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Daniel Myles](https://mylesapart.io)
 - [Daniel Rea](https://twitter.com/DanRea86/status/1071320633525493760)
 - [Daniel Sykes-Turner](https://daniel.st)
+- [Danny Kalnian](https://github.com/Kallahan23)
 - [Damien Coxall](https://twitter.com/Official_Damo/status/1071741781790715904)
 - [Darragh Kennedy](https://twitter.com/darraghke/status/1071023173980762112)
 - [Darren Cocco](https://blog.segfault.id.au)
