@@ -2,10 +2,15 @@ import React from 'react'
 import { Box, Icon, Paragraph, Link, styled } from 'fannypack'
 
 const Wrapper = styled(Box)`
-  background-color: #f5f5f5;
-  border-top: 1px solid #e0e0e0;
+  background-color: #363636;
   text-align: center;
   padding: 48px 10px;
+
+  a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
 `
 
 const FooterParagraph = styled(Paragraph)`

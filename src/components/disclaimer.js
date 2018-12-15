@@ -2,11 +2,10 @@ import React from 'react'
 import { Box, Heading, Paragraph, styled } from 'fannypack'
 
 const Wrapper = styled(Box)`
-  background: #f0f0f0;
-  padding: 15px 30px;
+  background: #f3f3f3;
+  padding: 25px 30px;
   text-align: center;
   font-size: 0.875rem;
-  margin-bottom: 48px;
 `
 
 const DisclaimerHeading = styled(Heading)`
