@@ -201,6 +201,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Joshua Korner-Godsiff](https://github.com/Kheldar)
 - [Joshua Richards](https://github.com/JoshuaRichards)
 - [Julian Doherty](https://twitter.com/madlep/status/1070510633550938112)
+- [James Pember](https://twitter.com/jamesepember)
 - [Kate Crawford](https://twitter.com/kate_eviva/status/1071237428227190787)
 - [Kee Jefferys](https://github.com/KeeJef)
 - [Kevin Jiah-Chih Liao](https://twitter.com/kevjcl/status/1072584129588461568)
