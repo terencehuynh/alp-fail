@@ -193,6 +193,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Jett Jackson](https://jettjacksonmedia.com)
 - [Jonathan Lepage](https://github.com/minipif)
 - [Jonathan Lowden](https://github.com/jdlowden)
+- [Jordan Miles](https://twitter.com/JMiles42_/status/1072803507017736192)
 - [Jordan Overbye](https://jordanoverbye.com)
 - [Joshua Bourke](https://twitter.com/Buorky/status/1070866643083882496)
 - [Joshua Holmes](https://twitter.com/JoshDHolmes)
