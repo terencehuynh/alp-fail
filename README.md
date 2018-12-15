@@ -104,6 +104,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Charling Li](https://charlingli.github.io)
 - [Chris (@nitecoder)](https://twitter.com/nitecoder/status/1071007354940878848)
 - [Chris Atkins](https://twitter.com/itscatkins/status/1071135137146912768)
+- [Chris Dilger](https://chris.dilger.me)
 - [Chris Duell](http://twitter.com/duellsy)
 - [Chris J. Kelly](https://twitter.com/chriskelly7777)
 - [Claudia Tu](https://github.com/cloudier)
