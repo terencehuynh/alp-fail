@@ -114,6 +114,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Corey Ginnivan](https://twitter.com/CoreyGinnivan)
 - [Colin Panisset](https://twitter.com/nonspecialist/status/1071347121352142848)
 - [Craig Davies](https://twitter.com/crdavies)
+- [Craig Handley] (https://github.com/cxhandley)
 - [Craig O'Shannessy](https://github.com/shanness)
 - [Curtis Millar](https://twitter.com/curtismillar)
 - [Damion Brown](https://twitter.com/thatsdamion/status/1071165344021004288)
