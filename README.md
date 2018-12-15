@@ -189,6 +189,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Jess Telford](https://jes.st/about)
 - [Jesse Cameron](https://github.com/Jesse-Cameron/)
 - [Jett Jackson](https://jettjacksonmedia.com)
+- [Jonathan Lepage](https://github.com/minipif)
 - [Jonathan Lowden](https://github.com/jdlowden)
 - [Jordan Overbye](https://jordanoverbye.com)
 - [Joshua Bourke](https://twitter.com/Buorky/status/1070866643083882496)
