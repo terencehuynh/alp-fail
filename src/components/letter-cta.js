@@ -1,4 +1,5 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 import {
   Box,
   Heading,
@@ -12,16 +13,13 @@ import {
 import { theme } from 'styled-tools'
 
 const Tweet =
-  'I am angry about your decision to pass #aabill and in all good conscience, I can never support Labor. @BillShortenMP @AustralianLabor https://alp.fail'
-
-const Url = 'https://alp.fail'
+  'I am angry about your decision to pass #aabill and in all good conscience, I can never support Labor. @BillShortenMP @AustralianLabor'
 
 const Wrapper = styled(Box)`
   border: 1px solid #e0e0e0;
   padding: 30px;
   text-align: center;
   margin-bottom: 12px;
-  margin-top: 24px;
 
   p {
     margin: 0;
@@ -40,7 +38,7 @@ const ButtonSet = styled(Set)`
   }
 `
 
-export const LetterCta = () => (
+export const LetterCta = ({ url }) => (
   <Wrapper>
     <LetterCtaHeading as="h3">
       Want to add your name to this letter?
@@ -49,7 +47,7 @@ export const LetterCta = () => (
       <Button
         use="a"
         href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(
-          Tweet
+          Tweet + ' ' + url
         )}`}
       >
         Send a Tweet
@@ -57,7 +55,7 @@ export const LetterCta = () => (
       <Button
         use="a"
         href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(
-          Url
+          url
         )}`}
       >
         Post on Facebook
@@ -75,3 +73,11 @@ export const LetterCta = () => (
     </Paragraph>
   </Wrapper>
 )
+
+LetterCta.propTypes = {
+  url: PropTypes.string,
+}
+
+LetterCta.defaultProps = {
+  url: 'https://alp.fail',
+}

@@ -1,4 +1,5 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 import { Container, styled } from 'fannypack'
 import { theme } from 'styled-tools'
 
@@ -9,13 +10,15 @@ import { Disclaimer } from './disclaimer'
 import { LetterCta } from './letter-cta'
 
 const Wrapper = styled(Container)`
-  padding: 42px 10px 0;
+  padding: 30px 20px;
+
   @media (max-width: ${theme('fannypack.layout.mobileBreakpoint')}px) {
-    padding: 30px 10px;
+    padding: 20px 0;
   }
 `
 
 const LetterWrapper = styled(Wrapper)`
+  padding-bottom: 0;
   p:first-child {
     font-size: 1.75rem;
     font-weight: 600;
@@ -28,19 +31,23 @@ const LetterWrapper = styled(Wrapper)`
   h2 {
     font-size: 1.5rem;
     margin-top: 48px;
-    font-weight: normal;
+    font-weight: bold;
     color: #e53440;
     letter-spacing: -1px;
     position: relative;
+    text-align: center;
   }
   h2:before {
     background: white;
     position: absolute;
     z-index: -5;
-    width: 80px;
+    width: 120px;
     content: ' ';
     top: 0;
+    left: 0;
+    right: 0;
     bottom: 0;
+    margin: 0 auto;
   }
   h2:after {
     position: absolute;
@@ -65,15 +72,22 @@ const LetterWrapper = styled(Wrapper)`
   li {
     text-align: left;
     margin-bottom: 5px;
+    @media (max-width: ${theme('fannypack.layout.mobileBreakpoint')}px) {
+      font-size: 0.8125rem;
+    }
   }
 `
 
-export const Letter = () => (
+export const Letter = ({ url }) => (
   <React.Fragment>
     <LetterWrapper breakpoint="desktop">{LetterText}</LetterWrapper>
     <Wrapper breakpoint="desktop">
-      <LetterCta />
-      <Disclaimer />
+      <LetterCta url={url} />
     </Wrapper>
+    <Disclaimer />
   </React.Fragment>
 )
+
+Letter.propTypes = {
+  url: PropTypes.string.isRequired,
+}

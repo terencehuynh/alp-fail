@@ -1,4 +1,5 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 import { Flex, Heading, Paragraph, styled } from 'fannypack'
 import { theme } from 'styled-tools'
 
@@ -36,11 +37,19 @@ const Dear = styled(Paragraph)`
   text-align: center;
 `
 
-export const Header = () => (
+export const Header = ({ headerText }) => (
   <Wrapper>
-    <Headline>You bunch of idiots!</Headline>
+    <Headline>{headerText}</Headline>
     <Dear>
       An Open Letter to Bill Shorten and Labor from the Tech Community
     </Dear>
   </Wrapper>
 )
+
+Header.propTypes = {
+  headerText: PropTypes.string,
+}
+
+Header.defaultProps = {
+  headerText: 'You bunch of idiots!',
+}

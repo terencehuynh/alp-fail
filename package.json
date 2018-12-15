@@ -6,11 +6,13 @@
   "license": "MIT",
   "dependencies": {
     "babel-plugin-styled-components": "^1.9.2",
+    "events": "^3.0.0",
     "fannypack": "^2.27.0",
     "gatsby": "^2.0.53",
     "gatsby-plugin-react-helmet": "^3.0.2",
     "gatsby-plugin-styled-components": "^3.0.4",
     "markdown-loader": "^4.0.0",
+    "prop-types": "^15.6.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-helmet": "^5.2.0",
