@@ -329,6 +329,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Lee Sinclair](https://twitter.com/LeeJSinclair/status/1073200093484871685)
 - [Leigh Stillard](https://twitter.com/LeighStillard/status/1070836261886210048)
 - [Lewis Freiberg](https://twitter.com/lewisfreiberg)
+- [Liam Callaway](https://twitter.com/liamcallaway)
 - [Liam Pomfret](https://twitter.com/LiamPomfret)
 - [Liam Zebedee](https://twitter.com/liamzebedee/status/1071567351366197253)
 - [Lucas Nelson](https://github.com/lucas-nelson)
