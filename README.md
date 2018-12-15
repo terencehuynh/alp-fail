@@ -342,6 +342,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Dr Tom Tilly](https://twitter.com/ThomasTilley14/status/1071363902863138816)
 - [Trent Stollery](https://github.com/trentstollery)
 - [Vatsalya Goel](https://vatsalyagoel.com/)
+- [Will Gittoes](https://github.com/md5wasp)
 - [Will Hackett](https://www.willhackett.com)
 - [William Holt](https://github.com/halbrd)
 - [Xuebing Li](https://xuebing.io)
