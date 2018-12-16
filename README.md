@@ -442,6 +442,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Richard Cullen](https://twitter.com/TrickiDicki/status/1073361528085143552)
 - [Richard Jones](https://mechanicalcat.net/richard)
 - [Rick C](https://twitter.com/metao/status/1071063913276424194)
+- [Riley Chase](https://twitter.com/NadockInTor/status/1074438887806648320)
 - [Rithesh J](https://github.com/AgentAileron)
 - [Rob Jacoby](https://twitter.com/robjacoby/status/1071638243135827969)
 - [Rob Sanders](https://twitter.com/AusRob/status/1070963199657181184)
