@@ -378,6 +378,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Michael Dyrynda](https://twitter.com/michaeldyrynda)
 - [Michael Ensly](http://mens.ly)
 - [Michael Hossen](https://twitter.com/mhossen/status/1070902172529741824)
+- [Michael Kimpton](https://twitter.com/sketchthat/status/1074566030284939264)
 - [Michael Mulhern](https://twitter.com/the_jongleur/status/1070990859108110336)
 - [Michael Shang](https://github.com/mxs)
 - [Mick Semb Wever](https://about.me/wever)
