@@ -302,6 +302,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Jordan Overbye](https://jordanoverbye.com)
 - [Josh (@MrJosh1989)](https://twitter.com/MrJosh1989/status/1071581342876352512)
 - [Josh Knibbs](https://twitter.com/TheNibsy/status/1071635717141319680)
+- [Josh Parnham](https://twitter.com/joshparnham)
 - [josht](https://twitter.com/@joshteperman)
 - [Joshua Bourke](https://twitter.com/Buorky/status/1070866643083882496)
 - [Joshua Holmes](https://twitter.com/JoshDHolmes)
