@@ -235,6 +235,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Garry McGhee](https://twitter.com/gazmcghee/status/1072799870296047616)
 - [Geoff Capper](https://github.com/GeoffCapper)
 - [Geoffrey Huntley](https://ghuntley.com/live)
+- [George Grigorian](https://georgie.id.au)
 - [George Haritonidis](https://twitter.com/georgeharito/status/1070972510265499648)
 - [Gerard Hook](https://twitter.com/gcpsoundlight/status/1070953878944772096)
 - [Gilberto Olimpio](https://twitter.com/golimpio)
