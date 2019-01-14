@@ -277,6 +277,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Jashank Jeremy](https://twitter.com/jashankj/status/1071621350031151105)
 - [Jason Brown](https://github.com/stopthatastronaut)
 - [Jason Daniels](https://twitter.com/jdan2341/status/1071727238393999360)
+- [Jeffery Hoffman](https://github.com/jkhoffman)
 - [Jemimah Irvin](https://twitter.com/JemimahIrvin/status/1071855263651491841)
 - [Jered Masters](https://jered.cc)
 - [Jeremy Bornstein](https://jeremy.org)
