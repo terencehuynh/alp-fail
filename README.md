@@ -241,6 +241,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Giselle Rosman](https://twitter.com/jazzrozz/status/1071529983552548864)
 - [Glen T](https://twitter.com/glent/status/1071626504658767872)
 - [Glenn Schmidt](https://github.com/glennschmidt)
+- [Gourav Kumar](http://gk.expert)
 - [Grant Orchard](https://twitter.com/grantorchard)
 - [Grant Trebbin](https://twitter.com/GPTreb/status/1071654356913537024)
 - [Greg Cockburn](https://twitter.com/gergnz/status/1072763468917301249)
