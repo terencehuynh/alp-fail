@@ -141,6 +141,7 @@ In all good conscience, we can no longer support Labor. We will be advocating fo
 - [Chhai Thach](https://twitter.com/chhai/status/1072419396436590593)
 - [Chris (@nitecoder)](https://twitter.com/nitecoder/status/1071007354940878848)
 - [Chris Atkins](https://twitter.com/itscatkins/status/1071135137146912768)
+- [Chris De Pasquale](https://github.com/chrisdepas)
 - [Chris Dilger](https://chris.dilger.me)
 - [Chris Duell](http://twitter.com/duellsy)
 - [Chris Goosen](https://twitter.com/chrisgoosen/status/1071612023153352705)
